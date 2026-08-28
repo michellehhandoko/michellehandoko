@@ -64,12 +64,15 @@ export default function PersonalLibCaseStudy() {
           </a>{" "}
           runs the recommendation engine directly, no setup needed.
         </p>
+        <p>
+          The screenshot below is a run against the sample reading history:
+        </p>
         <Shot
           src="/projects/personallib-recommendations.png"
-          alt="PersonalLib recommendations table with title, author, why, Libby availability, and a borrow-or-hold action per row"
+          alt="Screenshot of the PersonalLib recommendations table with title, author, why, Libby availability, and a borrow-or-hold action per row"
           width={1486}
           height={1166}
-          caption="Output — ranked recommendations with a reason, availability, and a Borrow / Hold / Save action."
+          caption="Screenshot — ranked recommendations, each with a reason, library availability, and a Borrow / Hold / Save action."
         />
       </Section>
 
