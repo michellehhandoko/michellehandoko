@@ -26,13 +26,16 @@ Open [http://localhost:3000](http://localhost:3000).
 ```
 app/
 ├── layout.tsx           # Root layout, fonts, site metadata
-├── page.tsx             # The homepage — all sections and project content
+├── page.tsx             # The homepage — all sections and project cards
+├── site-chrome.tsx      # Shared header + footer
 ├── globals.css          # Theme tokens and base styles
 ├── icon.svg             # Favicon
-└── opengraph-image.tsx  # Generated social preview card
+├── opengraph-image.tsx  # Generated social preview card
+└── projects/            # One page per case study + shared layout components
 ```
 
-Homepage content (projects, tags, links, copy) lives in `app/page.tsx`.
+Homepage content (projects, tags, links, copy) lives in `app/page.tsx`;
+each case study is its own page under `app/projects/`.
 
 ## Deploying
 
