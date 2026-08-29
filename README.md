@@ -3,8 +3,7 @@
 Source for my personal site — **[michellehandoko.vercel.app](https://michellehandoko.vercel.app)**.
 
 A single-page portfolio at the intersection of AI and operations: AI-powered tools
-I've built (Atlas, PersonalLib, an AI Operations Agent in progress) alongside the
-operational systems work behind them.
+I've built (Atlas, PersonalLib) alongside strategy and operational-systems work.
 
 ## Stack
 

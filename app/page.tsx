@@ -28,13 +28,6 @@ const aiProducts: Project[] = [
     repo: "https://github.com/michellehhandoko/PersonalLib",
     demo: "https://personallib.streamlit.app/",
   },
-  {
-    name: "AI Operations Agent",
-    description:
-      "An agent that reads SOPs, works through incoming operational cases, handles the routine ones itself, and escalates the calls that should belong to a human. The independent project I'm building next.",
-    tags: ["Structured Outputs", "Tool Calling", "Human-in-the-loop", "Evals"],
-    status: "In Progress",
-  },
 ];
 
 const strategyOps: Project[] = [
