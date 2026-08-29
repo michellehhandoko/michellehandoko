@@ -23,7 +23,7 @@ export default function AtlasCaseStudy() {
           {
             label: "Stack",
             value:
-              "Node.js / Express · OpenAI GPT-4o-mini (JSON mode) · Google Maps + Places · PostgreSQL",
+              "Node.js / Express · OpenAI GPT-4o-mini (JSON mode) · Google Maps + Places · PostgreSQL · Claude Code",
           },
           { label: "Status", value: "Prototype — not currently hosted" },
         ]}

@@ -22,7 +22,7 @@ export default function PersonalLibCaseStudy() {
           {
             label: "Stack",
             value:
-              "Python 3 (standard library) · Streamlit / Jupyter front ends",
+              "Python 3 (standard library) · Streamlit / Jupyter front ends · Claude Code",
           },
           { label: "Status", value: "Prototype — live demo below" },
         ]}

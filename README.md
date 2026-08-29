@@ -10,6 +10,7 @@ operational systems work behind them.
 
 - [Next.js](https://nextjs.org) (App Router) + TypeScript
 - [Tailwind CSS](https://tailwindcss.com)
+- Built with [Claude Code](https://claude.com/claude-code)
 - Deployed on [Vercel](https://vercel.com), auto-deploying from `main`
 
 ## Running locally
