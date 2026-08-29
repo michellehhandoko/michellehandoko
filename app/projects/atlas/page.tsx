@@ -19,7 +19,11 @@ export default function AtlasCaseStudy() {
             value:
               "Built for The Science and Strategy of Artificial Intelligence, UCLA Anderson MBA",
           },
-          { label: "Role", value: "Solo — product, prompts, backend, frontend" },
+          {
+            label: "Role",
+            value:
+              "Team project — product and features decided as a group; I owned the prompt engineering and built the app; testing and iteration were shared",
+          },
           {
             label: "Stack",
             value:
