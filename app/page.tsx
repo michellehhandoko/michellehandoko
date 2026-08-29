@@ -173,19 +173,16 @@ export default function Home() {
           <p>
             I&apos;m an operations and program management professional with an MBA
             from UCLA Anderson, working at the intersection of AI, technology, and
-            business operations. My experience spans cloud infrastructure,
+            business operations — with experience across cloud infrastructure,
             healthcare operations, process improvement, and AI-powered product
             development.
           </p>
           <p>
             What I enjoy most is turning complex or manual workflows into clearer,
-            more scalable systems — whether that&apos;s redesigning an operational
-            process, rolling out new technology, or prototyping an AI tool.
-            I&apos;ve built everything from an AI-powered travel planning app to a
-            book recommendation system, and I&apos;m still exploring how agents
-            and automation can support real operational work. I&apos;m at my best
-            translating between technical and non-technical teams and turning
-            messy problems into structured workflows.
+            more scalable systems — redesigning a process, rolling out new
+            technology, or prototyping an AI tool. I&apos;m at my best translating
+            between technical and non-technical teams and turning messy problems
+            into structured ones.
           </p>
         </div>
       </section>
